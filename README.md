@@ -5,12 +5,35 @@
 [![author](https://img.shields.io/badge/author-John%20Paul%20Custodio-orange.svg?style=flat-square)]()
 
 <p align="center">
-A collections of Kotlin Extension Functions.
+A collection of Kotlin Extension Functions.
 </p>
 
 <p align="center">
 <img src="images/kotlin_extensions_demo.png" width="768"/>
 </p>
+
+# Download #
+[![](https://jitpack.io/v/jpjpjp28/KotlinExtensions.svg)](https://jitpack.io/#jpjpjp28/KotlinExtensions)
+
+## Gradle ##
+Add it in your **root** `build.gradle` at the end of repositories:
+```gradle
+allprojects {
+    repositories {
+        maven { url 'https://jitpack.io' }
+    }
+}
+```
+
+Add a dependency code to your **module**'s `build.gradle` file.
+```gradle
+dependencies {
+    implementation "com.github.jpjpjp28:KotlinExtensions:1.0.0"
+}
+```
+
+# Usages #
+To follow.
 
 # Support #
 
