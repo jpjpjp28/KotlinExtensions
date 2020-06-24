@@ -13,7 +13,7 @@ A collection of Kotlin Extension Functions.
 </p>
 
 # Download #
-[![](https://jitpack.io/v/jpjpjp28/KotlinExtensions.svg)](https://jitpack.io/#jpjpjp28/KotlinExtensions)
+[![](https://jitpack.io/v/jpjpjp28/KotlinExtensions.svg?style=flat-square)](https://jitpack.io/#jpjpjp28/KotlinExtensions)
 
 ## Gradle ##
 Add it in your **root** `build.gradle` at the end of repositories:
@@ -28,7 +28,7 @@ allprojects {
 Add a dependency code to your **module**'s `build.gradle` file.
 ```gradle
 dependencies {
-    implementation "com.github.jpjpjp28:KotlinExtensions:1.0.0"
+    implementation "com.github.jpjpjp28:KotlinExtensions:1.0.1"
 }
 ```
 
